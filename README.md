@@ -58,3 +58,7 @@ My CV in [pdf](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/Varun
 |---|---|---|---|
 | 📊 [E-Commerce Return Analysis Dashboard](https://github.com/kogrees/E-Commerce-Return-Analysis-Dashboard/blob/main/README.md) | Power BI, DAX, Power Query, Excel | An interactive Power BI dashboard that analyzes 100,000+ e-commerce orders to identify return trends, revenue loss, customer behavior, product performance, and operational inefficiencies. Showcases data cleaning, star schema modeling, DAX measures, KPI development, and business intelligence to deliver actionable insights for reducing product returns. | [Dashboard](https://github.com/kogrees/E-Commerce-Return-Analysis-Dashboard/blob/main/Capture.PNG) | 
 | 📊 [Blinkit Sales Analysis Dashboard](https://github.com/kogrees/Blinkit-Sales-Analysis-Dashboard/blob/main/README.md) | Power BI, SQL, DAX, Power Query, Excel | An interactive Power BI dashboard that analyzes Blinkit sales data to uncover revenue trends, customer purchasing behavior, product performance, and outlet-wise insights. Demonstrates expertise in data cleaning, data modeling, DAX calculations, KPI development, and business intelligence through dynamic visualizations and actionable business insights. | [Dashboard](https://github.com/kogrees/Blinkit-Sales-Analysis-Dashboard/blob/main/Dashboard_image.png) |
+
+## Contacts
+- LinkedIn: [@tvarunranahere](https://www.linkedin.com/in/varunranahere/)
+- Email: varunranapro@gmail.com
