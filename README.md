@@ -2,14 +2,42 @@
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
-## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
 
-# Data Engineering
+## Table of Contents
+- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - Python
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+  - SQL
+    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+  - R
+    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+  - Excel / Google Sheets
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Power BI
+  
+
+
+- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+
+# About
+Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+
+My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+# Portfolio Projects
+
+## Data Engineering
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -48,36 +76,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 | 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
 | 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
-
-***
-
-# Katie's Guides
-
-## 📚 SQL Resources
-
-Looking to learn SQL for data analysis but don't know where to start? 
-
-Check out [my Linkedin post](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C) and [GitHub guide](https://github.com/katiehuangx/Transition-into-Data-Analytics?tab=readme-ov-file#-where-to-learn-sql) where I've compiled a comprehensive list of free SQL resources! From YouTube videos to interactive websites, courses, practice sites, and projects, this list has got you covered.
-
-<knb><img width="535" alt="Screenshot 2021-09-29 at 9 28 28 PM" src="https://user-images.githubusercontent.com/81607668/135277994-a45a6cf2-becc-464b-a0c3-5315bef99f33.png"></knb>
-
-## 👩🏻‍💻 Transition into Data Analytics Guide
-
-Are you keen on pursuing a career in data analytics, but feeling lost on how to take the first steps?
-
-Explore my comprehensive repo [here](https://github.com/katiehuangx/Transition-into-Data-Analytics), which contains all the essential resources you require to develop the technical expertise in SQL, Python, and Tableau!
-
-## ✏️ How to Create a GitHub Portfolio
-
-Are you new to GitHub and wondering how to showcase your coding skills to potential employers or clients? Look no further! 
-
-My step-by-step tutorial [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md) will guide you through creating a professional portfolio on GitHub.
-
-In my guide, you will learn:
-- How to create your profile on GitHub and add relevant information
-- How to customize Markdown files to create a visually appealing portfolio
-- How to create a new repository for each project and add project details and code
-- Follow these steps and you'll have an impressive portfolio to showcase your coding projects in no time!
 
 ***
 
