@@ -8,12 +8,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Portfolio Projects](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#portfolio-projects)
   - [Python](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#python)
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Python)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Restaurant Sales Analysis Using SQL](https://github.com/kogrees/Restaurant-Sales-Analysis-using-SQL/blob/main/README.md)  
   - [SQL](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Data Analyst Job Market Analysis](https://github.com/kogrees/Data-Analyst-Job-Market-Analysis/blob/main/README.md)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - [Data Visualization](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Data-Visualization)
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [E-Commerce Return Analysis Dashboard](https://github.com/kogrees/E-Commerce-Return-Analysis-Dashboard/blob/main/README.md)
+    - [Blinkit Sales Analysis Dashboard](https://github.com/kogrees/Blinkit-Sales-Analysis-Dashboard/blob/main/README.md)
 - [Contact](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#contacts)
 
 # About
@@ -51,7 +52,6 @@ My CV in [pdf](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/Varun
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 💡 [Data Analyst Job Market Analysis](https://github.com/kogrees/Data-Analyst-Job-Market-Analysis/blob/main/README.md) | SQL, PostgreSQL, Data Analysis, Data Visualization, Data Cleaning | This project analyzes the data analyst job market in India using SQL to uncover top-paying jobs, in-demand skills, salary trends, and the most valuable skills to learn. It demonstrates advanced SQL techniques including CTEs, JOINs, aggregations, and analytical queries to generate actionable insights from real-world job posting data. |
-
 | 🍽️ [Restaurant Sales Analysis Using SQL](https://github.com/kogrees/Restaurant-Sales-Analysis-using-SQL/blob/main/README.md) | SQL Server, SQL, Data Analysis, Data Visualization | This project analyzes restaurant sales, customer behavior, revenue trends, and menu performance using SQL. It demonstrates advanced SQL techniques including JOINs, CTEs, aggregate functions, and business-focused analytical queries to uncover actionable insights from real-world transactional restaurant data. |
 
 
