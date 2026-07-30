@@ -58,7 +58,7 @@ My CV in [pdf](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/Varun
 
 # Data Visualization
 
-| Project Link | Area | Project Description | Libraries |    
+| Project Link | Tool | Project Description | Dashboard |    
 |---|---|---|---|
 | 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
 | 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
