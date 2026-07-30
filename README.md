@@ -4,17 +4,17 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 ## Table of Contents
-- [About](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#about)
+- [About](#about)
 - [Portfolio Projects](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#portfolio-projects)
   - [Python](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#python)
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#Python)
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Python)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
-  - [SQL](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#SQL)
+  - [SQL](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - [Data Visualization](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#Data-Visualization)
+  - [Data Visualization](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Data-Visualization)
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Contact](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#contacts)
 
 # About
 Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
