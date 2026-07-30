@@ -17,13 +17,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Contact](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#contacts)
 
 # About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm **Varun Rana**! I'm a Data Analyst with a background in Computer Science and professional experience transforming raw data into actionable business insights. I enjoy solving real-world business problems using data and have built a strong foundation in SQL, Python, Power BI, Tableau, Excel, and data visualization.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+In my current role as a Research Analyst at Highspring LLC, I've designed automated reporting solutions, built interactive dashboards, analyzed large datasets, and developed workflow automation tools that reduced manual reporting efforts by over 55%. I've also evaluated thousands of AI-generated responses, performed root cause analysis, and collaborated with cross-functional teams to improve data quality, reporting accuracy, and operational efficiency.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+Beyond my professional experience, I enjoy working on end-to-end analytics projects that involve data cleaning, exploratory data analysis, dashboard development, and business intelligence. I'm passionate about continuously learning new technologies, improving my analytical skills, and using data-driven insights to help organizations make better decisions.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+Whether working independently or collaborating with a team, I'm driven by curiosity, problem-solving, and the opportunity to turn complex data into meaningful, impactful solutions.
 
 
 # Portfolio Projects
