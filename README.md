@@ -10,11 +10,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Python)
     - [Restaurant Sales Analysis Using SQL](https://github.com/kogrees/Restaurant-Sales-Analysis-using-SQL/blob/main/README.md)  
   - [SQL](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
-    - [Data Analyst Job Market Analysis](https://github.com/kogrees/Data-Analyst-Job-Market-Analysis/blob/main/README.md)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+    - [Data Analyst Job Market Analysis](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
+    - [Restaurant Sales Analysis Using SQL](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
   - [Data Visualization](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Data-Visualization)
-    - [E-Commerce Return Analysis Dashboard](https://github.com/kogrees/E-Commerce-Return-Analysis-Dashboard/blob/main/README.md)
-    - [Blinkit Sales Analysis Dashboard](https://github.com/kogrees/Blinkit-Sales-Analysis-Dashboard/blob/main/README.md)
+    - [E-Commerce Return Analysis Dashboard](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Data-Visualization)
+    - [Blinkit Sales Analysis Dashboard](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Data-Visualization)
 - [Contact](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#contacts)
 
 # About
