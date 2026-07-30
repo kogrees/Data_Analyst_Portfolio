@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#portfolio-projects)
-  - [Python](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#python)
+  - [Python](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#python)
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Python)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - [SQL](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
