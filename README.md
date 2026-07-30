@@ -4,19 +4,16 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#about)
+- [Portfolio Projects](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kogrees/Data_Analyst_Portfolio/edit/main/README.md#Python)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
+  - Data Visualization
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
-  - Power BI
   
 
 
@@ -37,7 +34,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Portfolio Projects
 
-## Data Engineering
+## Python
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -46,7 +43,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ***
 
-# SQL
+## SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -78,6 +75,3 @@ This is a repository to showcase skills, share projects and track my progress in
 | 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
 
 ***
-
-
-like this 
