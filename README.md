@@ -25,6 +25,8 @@ Beyond my professional experience, I enjoy working on end-to-end analytics proje
 
 Whether working independently or collaborating with a team, I'm driven by curiosity, problem-solving, and the opportunity to turn complex data into meaningful, impactful solutions.
 
+My CV in [pdf](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/Varun_Rana_Resume_CV_2026.pdf).
+
 
 # Portfolio Projects
 
