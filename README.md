@@ -5,16 +5,16 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-  - [Python](#python)
-    - [Analyzing the Factors Contributing to the Success of a Movie](#Python)
-    - [Restaurant Sales Analysis Using SQL](#Python)  
+- [Portfolio Projects](#portfolio-projects)  
   - [SQL](#SQL)
     - [Data Analyst Job Market Analysis](#SQL)
     - [Restaurant Sales Analysis Using SQL](#SQL)
   - [Data Visualization](#Data-Visualization)
     - [E-Commerce Return Analysis Dashboard](#Data-Visualization)
     - [Blinkit Sales Analysis Dashboard](#Data-Visualization)
+  - [Python](#python)
+    - [Analyzing the Factors Contributing to the Success of a Movie](#Python)
+    - [Restaurant Sales Analysis Using SQL](#Python)
 - [Contact](#contacts)
 
 # About
