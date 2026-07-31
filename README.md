@@ -5,17 +5,17 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#portfolio-projects)
-  - [Python](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#python)
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Python)
-    - [Restaurant Sales Analysis Using SQL](https://github.com/kogrees/Restaurant-Sales-Analysis-using-SQL/blob/main/README.md)  
-  - [SQL](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
-    - [Data Analyst Job Market Analysis](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
-    - [Restaurant Sales Analysis Using SQL](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#SQL)
-  - [Data Visualization](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Data-Visualization)
-    - [E-Commerce Return Analysis Dashboard](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Data-Visualization)
-    - [Blinkit Sales Analysis Dashboard](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#Data-Visualization)
-- [Contact](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/README.md#contacts)
+- [Portfolio Projects](#portfolio-projects)
+  - [Python](#python)
+    - [Analyzing the Factors Contributing to the Success of a Movie](#Python)
+    - [Restaurant Sales Analysis Using SQL](#Python)  
+  - [SQL](#SQL)
+    - [Data Analyst Job Market Analysis](#SQL)
+    - [Restaurant Sales Analysis Using SQL](#SQL)
+  - [Data Visualization](#Data-Visualization)
+    - [E-Commerce Return Analysis Dashboard](#Data-Visualization)
+    - [Blinkit Sales Analysis Dashboard](#Data-Visualization)
+- [Contact](#contacts)
 
 # About
 Hi, I'm **Varun Rana**! I'm a Data Analyst with a background in Computer Science and professional experience transforming raw data into actionable business insights. I enjoy solving real-world business problems using data and have built a strong foundation in SQL, Python, Power BI, Tableau, Excel, and data visualization.
@@ -30,16 +30,6 @@ My CV in [pdf](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/Varun
 
 
 # Portfolio Projects
-
-
-## Python
-
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| ⛽️ [Fuel Economy](https://github.com/kogrees/Python-Portfolio/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, matplotlib |   
-| 🌤 [Explore Weather Trends](https://github.com/kogrees/Python-Portfolio/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb) | Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | pandas, matplotlib |
-
-***
 
 
 ## SQL
@@ -58,6 +48,16 @@ My CV in [pdf](https://github.com/kogrees/Data_Analyst_Portfolio/blob/main/Varun
 |---|---|---|---|
 | 📊 [E-Commerce Return Analysis Dashboard](https://github.com/kogrees/E-Commerce-Return-Analysis-Dashboard/blob/main/README.md) | Power BI, DAX, Power Query, Excel | An interactive Power BI dashboard that analyzes 100,000+ e-commerce orders to identify return trends, revenue loss, customer behavior, product performance, and operational inefficiencies. Showcases data cleaning, star schema modeling, DAX measures, KPI development, and business intelligence to deliver actionable insights for reducing product returns. | [Dashboard](https://github.com/kogrees/E-Commerce-Return-Analysis-Dashboard/blob/main/Capture.PNG) | 
 | 📊 [Blinkit Sales Analysis Dashboard](https://github.com/kogrees/Blinkit-Sales-Analysis-Dashboard/blob/main/README.md) | Power BI, SQL, DAX, Power Query, Excel | An interactive Power BI dashboard that analyzes Blinkit sales data to uncover revenue trends, customer purchasing behavior, product performance, and outlet-wise insights. Demonstrates expertise in data cleaning, data modeling, DAX calculations, KPI development, and business intelligence through dynamic visualizations and actionable business insights. | [Dashboard](https://github.com/kogrees/Blinkit-Sales-Analysis-Dashboard/blob/main/Dashboard_image.png) |
+
+
+## Python
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| ⛽️ [Fuel Economy](https://github.com/kogrees/Python-Portfolio/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. |  pandas, matplotlib |   
+| 🌤 [Explore Weather Trends](https://github.com/kogrees/Python-Portfolio/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb) | Time-series analysis | In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends. | pandas, matplotlib |
+
+***
 
 ## Contacts
 - LinkedIn: [@tvarunranahere](https://www.linkedin.com/in/varunranahere/)
